@@ -1,0 +1,41 @@
+body{
+    background-color: #FAF0E4;
+}
+
+.both-dice {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    
+  }
+
+
+
+h1{
+    text-align: center;
+}
+
+h2{
+    font-size: 5rem;
+    color: red;
+    text-align: center;
+    font-family: 'Lilita One', cursive;
+    font-weight: 400;
+}
+
+p {
+    font-size: 2rem;
+    color: #FF8551;
+    font-family: 'Indie Flower', cursive;
+  }
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+
+footer {
+    text-align: center;
+    margin-top: 5%;
+}
